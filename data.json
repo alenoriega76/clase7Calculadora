@@ -1,5 +1,1 @@
-[
-  { "titulo": " Pintar", "descripcion": "pintar el departamento" },
-  { "titulo": " Comprar revear", "descripcion": "comprar" },
-  { "titulo": " Viajar", "descripcion": "ir a Córdoba" }
-]
+[{"titulo":" Pintar","descripcion":"pintar el departamento"},{"titulo":" Comprar revear","descripcion":"comprar"},{"titulo":" Viajar","descripcion":"ir a Córdoba"}]
